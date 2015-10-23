@@ -1,2 +1,12 @@
-firebase:
-  secret: IJWEFOILKSDFJKLJLKSDJF
+dev:
+  db:
+    user: foo
+    password: bar
+test:
+  db:
+    user: foo
+    password: bar
+production:
+  db:
+    user: foo
+    password: SECRET
